@@ -1,0 +1,6 @@
+Comparación entre el RVC y el RST:
+El método del RVC es más intuitivo y más sencillo de lograr, pero tiene menos iteraciones que el RST, ya que el primero tiene 1000 iteraciones máximas y el segundo tiene 1500 iteraciones máximas.
+Es más sencillo utilizar el método RVC ya que podemos utilizar la tabla de DH, aunque toca usar la DH standar. De esta manera, es más sencillo crear el robot en RVC que en RST.
+También la forma en que se representa el robot en RVC es visualmente más intuitiva.
+Otra cosa buena del RVC es que nos dice un parámetro de error en las iteraciones, por lo que podemos ver qué tan bien está el resultado final de cinemática inversa.
+De esta forma, es mejor tener el método ikine de RVC ya que es más rápido, intuitivo y crear el robot es más sencillo con los parámetros DH.
